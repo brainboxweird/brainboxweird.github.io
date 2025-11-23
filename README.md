@@ -10,5 +10,5 @@ Here is a list of my Repositories:
 # 🌐My Pages
 Here is a list of my Pages
 
-[brainboxweird.github.io](brainboxweird.github.io)
-[Roast Your Friends](brainboxweird.github.io/Roast-Your-Friends)
+[brainboxweird.github.io](https://rb.gy/3ftf7i)
+[Roast Your Friends](https://rb.gy/z19iih)
