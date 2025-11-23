@@ -1,1 +1,4 @@
-theme: midnight
+title: brainboxweird
+description: I put all the stuff I make here.
+show_downloads: false
+theme: jekyll-theme-midnight
